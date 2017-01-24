@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Валерия Калинина](https://up.htmlacademy.ru/javascript/8/user/219134).
-* Наставник: `Неизвестно`.
+* Наставник: [Борис Стрельников](https://htmlacademy.ru/profile/id278461).
 
 ---
 
